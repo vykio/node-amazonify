@@ -1,6 +1,6 @@
 {
   "name": "amazonify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM Package to add or replace affiliate tag in Amazon link",
   "main": "index.js",
   "types": "index.d.ts",
