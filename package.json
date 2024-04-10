@@ -1,0 +1,21 @@
+{
+  "name": "amazonify",
+  "version": "1.0.0",
+  "description": "NPM Package to add or replace affiliate tag in Amazon link",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/vykio/node-amazonify"
+  },
+  "keywords": [
+    "amazon",
+    "affiliate",
+    "node"
+  ],
+  "author": "Vykio",
+  "license": "ISC"
+}
